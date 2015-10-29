@@ -5,5 +5,5 @@
 function loadAsync()
 {
 	console.log("log");
-	console.log("end");
+	var count =0;
 }
