@@ -6,4 +6,8 @@ function loadAsync()
 {
 	console.log("log");
 	var count =0;
+	
+	
+	
+	console.log("stage");
 }
