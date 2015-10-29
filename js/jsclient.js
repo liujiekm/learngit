@@ -4,5 +4,6 @@
 
 function loadAsync()
 {
-	
+	console.log("log");
+	console.log("end");
 }
