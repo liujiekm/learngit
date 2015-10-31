@@ -3,6 +3,10 @@
 
 
 this a dev added content
-
-
 this is a master added content
+
+<<<<<<< HEAD
+
+=======
+this is a dev added content
+>>>>>>> dev
