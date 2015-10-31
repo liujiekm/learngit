@@ -11,3 +11,11 @@ function loadAsync()
 	
 	console.log("stage");
 }
+
+
+
+
+function bugfix()
+{
+	console.log("bug fix");
+}
