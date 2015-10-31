@@ -19,3 +19,9 @@ function bugfix()
 {
 	console.log("bug fix");
 }
+
+
+function bugfix2()
+{
+	console.log("bug fix");
+}
